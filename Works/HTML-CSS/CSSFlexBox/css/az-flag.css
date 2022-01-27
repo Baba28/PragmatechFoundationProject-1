@@ -1,0 +1,8 @@
+.az-flag {
+    width: 50%;
+    height: 200px;
+    background-color: red;
+    margin: auto;
+    border-top:180px solid blue;
+    border-bottom: 180px solid green;
+}
